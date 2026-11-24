@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "title": "",
+  "mode": "full",
+  "version": "0.1",
+  "stages": {
+    "1": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "2": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "3": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "4": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "5": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "6": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "7": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "8": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    },
+    "9": {
+      "status": "pending",
+      "decision": "",
+      "evidence": [],
+      "date": ""
+    }
+  },
+  "history": [],
+  "publication_authorized": false
+}

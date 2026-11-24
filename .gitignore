@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+private/
+projects/
+outputs/
+*.zip
+.DS_Store
